@@ -1,0 +1,26 @@
+{
+  "name": "special-octo-rotary-phone",
+  "version": "1.0.0",
+  "description": "Module 12 challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooja3093/special-octo-rotary-phone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pooja3093/special-octo-rotary-phone/issues"
+  },
+  "homepage": "https://github.com/Pooja3093/special-octo-rotary-phone#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql2": "^2.2.5"
+  }
+}
